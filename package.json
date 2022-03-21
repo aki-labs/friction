@@ -15,7 +15,7 @@
     "supportedBrands": [
       "adapted-from-phet",
       "phet",
-      "phet-io"
+      "aki"
     ],
     "simFeatures": {
       "supportsVoicing": true,
